@@ -1,0 +1,5 @@
+.List {
+    flex: 1;
+    padding: 1em;
+    border: solid black 1px;
+}
